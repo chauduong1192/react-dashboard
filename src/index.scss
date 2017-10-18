@@ -1,4 +1,6 @@
-// My Bootstrap configuration
-// @import 'custom_bootstrap';
+
 // Bootstrap library
-@import 'bootstrap/scss/bootstrap';
+
+@import 'template/bootstrap.min.css';
+@import 'template/bootstrap-extend.min.css';
+@import 'template/site.css';
